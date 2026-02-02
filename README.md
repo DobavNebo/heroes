@@ -13,6 +13,7 @@
 git clone https://github.com/DobavNebo/heroes.git
 
 cd heroes
+
 pip install -r requirements.txt
 
 ### Запуск пользовательского интерфейса
